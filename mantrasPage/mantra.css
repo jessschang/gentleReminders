@@ -25,14 +25,14 @@ h1 {
 	text-shadow: 5px 5px #101010;
 }
 
-h3 {
+.chakra-names {
 	text-shadow: 1px 1px #101010;
 	font-family: Helvetica;
 	font-size: 25px;
 	text-align: left;
 }
 
-p {
+.mantra-text {
 	font-family: Helvetica;
 	font-size: 16px;
 	text-align: justify-all;
