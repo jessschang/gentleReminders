@@ -1,0 +1,41 @@
+html {
+	background-image: radial-gradient(#004de6, #80aaff); 
+}
+
+#homepage {
+	font-family: Chicle;
+	font-size: 20px;
+	text-decoration: none;
+	color: #ffcc66;
+	padding: 8px;
+}
+
+.row1 {
+	display: inline-flex;
+	width: 100%; 
+    margin: 30px auto;
+    margin-top: 150px;
+}
+
+.meditation-button {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+  font-family: Chicle;
+  font-size: 20px;
+  vertical-align: middle;
+  line-height: 240px;
+  background-image: radial-gradient(#1f1f7a, #5c5cd6); 
+}
+
+.meditate {
+	color: white;
+  	text-decoration: none;
+  	font-size: 35px;
+  	font-weight: lighter;
+  	text-shadow: 2px 2px #101010;
+}
+

@@ -1,0 +1,130 @@
+
+	
+html {
+	background-color: #2d072c;
+}
+
+#homepage {
+	font-family: Chicle;
+	font-size: 20px;
+	text-decoration: none;
+	color: #ffcc66;
+}
+
+
+.row1 {
+	display: inline-flex;
+	width: 100%; 
+    margin: 30px auto;
+
+}
+
+.row2 {
+	display: inline-flex;
+	width: 100%; 
+    margin: 30px auto;
+}
+
+
+.chakra {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+  font-family: Chicle;
+  font-size: 35px;
+  vertical-align: middle;
+  line-height: 240px;
+}
+
+.chakra-link {
+	color: white;
+  	text-decoration: none;
+  	font-weight: lighter;
+  	text-shadow: 2px 2px #101010;
+}
+
+.red {
+	background-image: radial-gradient(#ff0000, #ff6666);
+}
+
+.orange {
+	background-image: radial-gradient(#ff471a, #ff9933);
+}
+
+.yellow {
+	background-image: radial-gradient(#ffcc00, #ffff80);
+}
+
+.green {
+	background-image: radial-gradient(#00802b, #70db70); 
+}
+
+.blue {
+	background-image: radial-gradient(#004de6, #80aaff); 
+}
+
+.indigo {
+	background-image: radial-gradient(#1f1f7a, #5c5cd6); 
+}
+
+.violet {
+	background-image: radial-gradient(#330066, #a64dff); 
+}
+
+.chakra-title {
+	font-family: Helvetica;
+	font-size: 25px;
+}
+
+#Muladhara {
+	background-color: #ff0000;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+	margin-top: 150px;
+}
+
+#Svadhisthana {
+	background-color: #ff471a;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+}
+
+#Manipura {
+	background-color: #ffcc00;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+}
+
+#Anahata {
+	background-color: #00802b;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+}
+
+#Vishuddha {
+	background-color: #80aaff;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+}
+
+#Ajna {
+	background-color: #5c5cd6;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+}
+
+#Sahasrara {
+	background-color: #a64dff;
+	font-size: 15px;
+	font-family: Helvetica;
+	padding: 10px;
+}
