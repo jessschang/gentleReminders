@@ -1,0 +1,52 @@
+
+	
+html {
+	background: url(assets/chakrabg.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+@media only screen and (max-width: 800px) {
+	background: url(assets/chakrabg.jpg) no-repeat center center;
+	width: auto;
+	max-width: 100%;
+	height: auto;
+}
+
+.title {
+	font-family: Chicle;
+	font-size: 64px;
+	color: #ffcc66;
+	text-shadow: 3px 3px #101010;
+}
+
+.hp-nav {
+	padding-left: 10px;
+}
+
+.nav-container {
+	padding: 30px;
+	line-height: 480%;
+	margin-left: 60px;
+}
+
+@media only screen and (max-width: 768px) {
+        width: 100%;
+    }
+
+.nav-link {
+	color: #ffb833;
+	text-decoration: none;
+	font-family: Chicle;
+	font-size: 35px;
+	margin-bottom: 90px;
+	font-weight: lighter;
+	text-shadow: 2px 2px #101010;
+}
+
+a:hover {
+	color: #ffcc66;
+}
+
+a:active {
+	color: #ffb833;
+}
